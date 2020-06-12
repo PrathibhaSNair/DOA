@@ -1,4 +1,6 @@
 # Final Degree Project 
+Joan Altés Depares
+__________
 
 Source code for my final project (bachelor thesis) for my Biomedical Engineering Degree. Project workflow was conducted as follows:
 1. Data processing and exploratory analysis
