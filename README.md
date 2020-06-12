@@ -19,7 +19,7 @@ Models were built using `sklearn`, `keras` and `tensorflow`, hyperparameter tuni
 
 The dataset used for this project contains data from many anesthesia monitoring devices from a number of surgical procedures. The dataset belongs to the SPEC-M research group in Hospital Clínic in Barcelona and it is not publicly available. 
 
-Results were good for the prediction of light hypnosis and hypotension, while movement prediction was less accurate but still acceptable.
+Results were good for the prediction of light hypnosis and hypotension, while movement prediction was less accurate but still acceptable. LSTM model was the best performing in both 'accurate' models with a specificity between 0.667 and 0.784 for a sensitivity of 1, confirming that the time series nature of the data must be taken into account.
 
 ![Alt text](Figures/rocresults.png?raw=true)
 
