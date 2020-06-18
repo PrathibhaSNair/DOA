@@ -1,5 +1,6 @@
 # Final Degree Project 
 Joan Altés Depares
+June 2020
 __________
 
 Source code for my final project (bachelor thesis) for my Biomedical Engineering Degree. Project workflow was conducted as follows:
